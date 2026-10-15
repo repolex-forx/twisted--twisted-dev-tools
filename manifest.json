@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "twisted",
+  "repo": "twisted-dev-tools",
+  "versions": [
+    {
+      "commit": "6a08511f7ecf873e497151358c0195b05c853973",
+      "parsed_at": "2026-10-15T15:06:51.296387+00:00",
+      "filetree": "filetree/6a08511f7ecf873e497151358c0195b05c853973.nq.gz",
+      "blobs": [
+        "blob/3e5295d85cff480043dac909b5f4be0f0d9bf2b7.nq.gz",
+        "blob/15ce135148a21a90df90590e5a670830ae21e19b.nq.gz",
+        "blob/ef16ce3f11044cd7aea44301617fda88e54516d9.nq.gz",
+        "blob/bf194a37d10576517123d1558c1ab3f7131b552c.nq.gz",
+        "blob/566a8eab837001166880d9c7f8484b0454999789.nq.gz",
+        "blob/143c0c1b27e943252509b9179f82e77023cf6490.nq.gz",
+        "blob/c135aea9a8410599d719833627a02a168ea25513.nq.gz",
+        "blob/03aa993c4dce9a45d3788230a8695ccaba320537.nq.gz",
+        "blob/f6ff3c3464ecc479e11652cdee82f1bdbd2f90ff.nq.gz",
+        "blob/4ba5d33e84849460a8fc2755fc03ff428860f688.nq.gz",
+        "blob/9e53d5303396cbf502d2f01e9cef1a404f1f7546.nq.gz",
+        "blob/400b71f949f68c435772c2388077547599bf20c2.nq.gz",
+        "blob/1f04641f2f01e02a93ef1146422714bde87940ec.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/ea2cacf3a1b22e8686598a80ff149369c8115380.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
